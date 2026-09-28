@@ -1,0 +1,18 @@
+{
+  "name": "ai-faq-frontend",
+  "version": "1.0.0",
+  "description": "This version contains only: - HTML - CSS - JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.3.0"
+  }
+}
